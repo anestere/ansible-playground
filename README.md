@@ -30,7 +30,7 @@ cd ansible
 docker-compose up
 ```
 
-# Run Ad-hoc comammand
+# Run Ad-hoc command
 
 Execute command
 
