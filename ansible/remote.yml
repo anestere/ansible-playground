@@ -15,8 +15,3 @@
     # perform an action that requires root access
     - name: create user foo
       user: name=foo
-
-    - name: list all users
-      shell: "cut -d: -f1 /etc/passwd"
-      register: usr-list
-    - debug: var=usr-list
