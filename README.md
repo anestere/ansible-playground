@@ -1,4 +1,4 @@
-#Ansible Playground 
+# Ansible Playground (running on MacOS, Windows version to be added)
 
 Inspired by **Phil Misiowiec** https://medium.com/@tech_phil/running-ansible-inside-docker-550d3bb2bdff
 
